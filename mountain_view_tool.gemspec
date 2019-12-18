@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{how I make gems?}
   spec.description   = %q{I'm making this gem to learn how to make ruby gems}
-  spec.homepage      = "www.example.com"
+  spec.homepage      = "https://github.com/leppadoshi/mountain_view_tool"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
