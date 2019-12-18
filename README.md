@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MountainViewTool::Renderer.copyright 'Hidden Mountain', 'All rights reserved'
+```
 
 ## Development
 
